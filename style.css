@@ -3,6 +3,10 @@ body {
     color: navy;
 }
 
+h1 {
+    font-family: 'Vollkorn', serif;
+}
+
 nav {
     background-color: chocolate;
     color: dodgerblue;
