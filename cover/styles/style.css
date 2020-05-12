@@ -1,0 +1,7 @@
+* {
+    overscroll-behavior-y: none;
+}
+
+html {
+    background: url("../media/hintergrund.jpg") no-repeat center / cover fixed;
+}
